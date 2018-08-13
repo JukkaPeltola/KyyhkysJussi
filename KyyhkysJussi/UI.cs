@@ -634,7 +634,7 @@ NNNNN d d NNN       Nyssd
             }
             else if (TämäHuone == kartta.Huoneet[9] && FasaaniPiilossa < 5 && vars[0] == "lyö")
             {
-                Console.WriteLine("Paremman lyötävän puutteessa mäjäytät itseäsi mahaan.\n");
+                Console.WriteLine("Paremman lyötävän puutteessa mäjäytät itseäsi mahaan.Hihi kutittaa\n");
                 
             }
 
